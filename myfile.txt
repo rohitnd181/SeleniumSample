@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 cxxcxxdfhdhj
 nb
+=======
+cxxcxxdfhdhj
+nb
+22nd nov
+>>>>>>> db7f2613039dc11eb05b2cceb786bba0b3ab00be
